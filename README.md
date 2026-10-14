@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="JJ Wang — Mechanical Engineering · Industrial Graphics · Multimodal Learning">
+  <img src="assets/header.svg" width="100%" alt="JJ Wang — Digital Twins · Graphics and Rendering · Multimodal Deep Learning · Industrial Simulation">
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ### Hi, I'm JJ Wang.
 
-机械工程背景，来自广东工业大学。我的项目围绕**工业三维、机器学习与设备退化预测**展开，关注从模型、实验到工程实现的完整过程。
+机械工程背景，来自广东工业大学。主要研究方向为**数字孪生、图形学渲染、多模态深度学习与工业仿真**，关注从模型、实验到工程实现的完整过程。
 
-Mechanical engineering at Guangdong University of Technology. My projects explore industrial graphics, multimodal learning, and equipment prognostics.
+Mechanical engineering at Guangdong University of Technology. My research focuses on digital twins, computer graphics and rendering, multimodal deep learning, and industrial simulation.
 
 <br>
 
@@ -55,9 +55,10 @@ Mechanical engineering at Guangdong University of Technology. My projects explor
 
 | Direction | What I explore |
 | :--- | :--- |
-| **Industrial graphics** | 语义与结构感知的模型简化、集群 LOD、GPU 驱动渲染 |
-| **Multimodal intelligence** | 图像、文本与数值信息融合，设备退化预测与维护事件建模 |
-| **Reliable engineering** | 数据划分审计、可复现实验、预测证据与工具协作 |
+| **Digital twins · 数字孪生** | 工业系统的数字化建模、状态映射与虚实交互 |
+| **Graphics & rendering · 图形学渲染** | 工业三维可视化、语义与结构感知 LOD、GPU 驱动渲染 |
+| **Multimodal deep learning · 多模态深度学习** | 图像、文本与数值信息融合，跨模态表征与设备退化预测 |
+| **Industrial simulation · 工业仿真** | 工业场景与设备行为建模、仿真分析及可视化 |
 
 <br>
 
