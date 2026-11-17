@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="MERA-PHM">
+<rect width="1200" height="120" rx="12" fill="#111E2D"/><rect x="0" y="24" width="4" height="72" rx="2" fill="#C2B1FF"/>
+<text x="28" y="80" fill="#C2B1FF" font-family="Arial,sans-serif" font-size="49" font-weight="700" opacity=".8">03</text>
+<path d="M111 28v64" stroke="#314355"/>
+<text x="140" y="43" fill="#C2B1FF" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">MAINTENANCE-AWARE PROGNOSTICS</text>
+<text x="139" y="87" fill="#EFF5FC" font-family="Arial,sans-serif" font-size="35" font-weight="600">MERA-PHM</text>
+<path d="M1125 73h25V48m0 0-29 29m29-29h-19" stroke="#C2B1FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

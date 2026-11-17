@@ -1,26 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">JJ Wang — Engineering and Research</title>
-<desc id="desc">Mechanical engineering. Graphics, digital twins and multimodal learning. An abstract industrial wireframe on a dark blue background.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">JJ Wang — Engineering, made visible.</title>
+<desc id="desc">Mechanical engineering at Guangdong University of Technology. Graphics, digital twins and multimodal learning.</desc>
 <defs>
-<linearGradient id="bg" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#0C1320"/><stop offset="1" stop-color="#152D38"/></linearGradient>
-<linearGradient id="edge" x1="840" y1="70" x2="1100" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#83C9FF"/><stop offset="1" stop-color="#67DFC3"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#82B4CB" stroke-opacity=".09"/></pattern>
+<linearGradient id="bg" x2="1200" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#0C1422"/><stop offset="1" stop-color="#132C3A"/></linearGradient>
+<linearGradient id="wire" x1="800" y1="50" x2="1110" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#90CCFF"/><stop offset="1" stop-color="#67E0C0"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#7CB5C9" stroke-opacity=".09"/></pattern>
 </defs>
-<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-<rect x="780" width="420" height="320" rx="18" fill="url(#grid)"/>
-<rect x="48" y="43" width="30" height="3" rx="1.5" fill="#67DFC3"/>
-<text x="92" y="51" fill="#B6CEDC" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">ENGINEERING &amp; RESEARCH</text>
-<text x="46" y="146" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">JJ Wang.</text>
-<text x="50" y="198" fill="#7FE1CD" font-family="Arial,sans-serif" font-size="25">Graphics. Digital twins. Multimodal learning.</text>
-<path d="M50 230H715" stroke="#355061"/>
-<text x="50" y="270" fill="#AFBFCD" font-family="Arial,sans-serif" font-size="19">Mechanical Engineering · Guangdong University of Technology</text>
-<g stroke="url(#edge)" stroke-width="1.5" stroke-linejoin="round">
-<path d="m875 103 92-53 92 53-92 53Z" fill="#387490" fill-opacity=".18"/>
-<path d="M875 103v108l92 54V156Zm92 53v109l92-54V103" fill="#275D65" fill-opacity=".23"/>
-<path d="m899 117 68-39 68 39-68 39Zm0 0v80l68 40 68-40v-80M967 156v81" opacity=".4"/>
-<path d="m875 157 92 54 92-54M921 77v161m92-161v161" opacity=".25"/>
-<ellipse cx="967" cy="158" rx="174" ry="84" transform="rotate(-24 967 158)" opacity=".26"/>
-<path d="m1059 103 39-23h53M875 211l-38 22h-32" opacity=".55"/>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+<rect x="760" width="440" height="380" rx="20" fill="url(#grid)"/>
+<path d="M48 46h30" stroke="#6EE7C3" stroke-width="3"/>
+<text x="92" y="52" fill="#B0C7D7" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">RESEARCH / BUILD / VALIDATE</text>
+<text x="45" y="151" fill="#F1F6FB" font-family="Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-3">JJ Wang.</text>
+<text x="50" y="208" fill="#7AE2CD" font-family="Arial,sans-serif" font-size="32">Engineering, made visible.</text>
+<text x="50" y="251" fill="#A8BECE" font-family="Arial,sans-serif" font-size="18">Graphics · Digital Twins · Multimodal Learning</text>
+<path d="M48 300h1104" stroke="#375060"/>
+<text x="50" y="342" fill="#AFC3D1" font-family="Arial,sans-serif" font-size="17">MECHANICAL ENGINEERING</text>
+<text x="1150" y="342" text-anchor="end" fill="#AFC3D1" font-family="Arial,sans-serif" font-size="17">GUANGDONG UNIVERSITY OF TECHNOLOGY</text>
+<g stroke="url(#wire)" stroke-width="1.6" stroke-linejoin="round">
+<ellipse cx="962" cy="161" rx="172" ry="82" transform="rotate(-25 962 161)" opacity=".25"/>
+<ellipse cx="962" cy="161" rx="151" ry="59" transform="rotate(25 962 161)" opacity=".18"/>
+<path d="m883 110 79-46 79 46-79 46Z" fill="#4385A3" fill-opacity=".18"/>
+<path d="M883 110v92l79 46v-92Zm79 46v92l79-46v-92" fill="#3B8F8D" fill-opacity=".12"/>
+<path d="m903 122 59-34 59 34-59 34Zm0 0v68l59 34 59-34v-68M962 156v68" opacity=".42"/>
+<path d="m883 156 79 46 79-46M922 87v138m80-138v138" opacity=".24"/>
+<path d="m1041 110 42-25h50M883 202l-40 24h-34" opacity=".5"/>
 </g>
-<g fill="#7FE1CD"><circle cx="967" cy="50" r="4"/><circle cx="875" cy="103" r="4"/><circle cx="1059" cy="103" r="4"/><circle cx="967" cy="265" r="4"/><circle cx="967" cy="156" r="5"/></g>
+<g fill="#81E6CF"><circle cx="962" cy="64" r="4"/><circle cx="883" cy="110" r="4"/><circle cx="1041" cy="110" r="4"/><circle cx="962" cy="248" r="4"/><circle cx="962" cy="156" r="5"/></g>
 </svg>
