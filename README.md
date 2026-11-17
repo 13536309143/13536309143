@@ -40,14 +40,16 @@ Mechanical engineering at Guangdong University of Technology. I work on industri
 
 ---
 
-### 03 / GlyphWeave · 字织
-**融合笔画细节与空间结构的手写字符识别**
+### 03 / AxisForge-CAD
+**参数建模、装配配合与三维交互的 CAD 桌面项目**
 
-结合笔画梯度、层级卷积、空间注意力与多尺度融合，识别汉字、英文字母和数字共 **7,247 类**。项目公开测试集包含 870,895 张图像，Top-1 准确率为 **95.95%**；评估协议与分类别结果见仓库说明。
+以 Qt 工作台、文档事务、OCCT 几何内核、装配求解与 OpenGL 显示构成完整开发流程。支持九种参数实体、布尔并／差／交、八种装配配合、撤销／重做，以及 STEP、GLB、OBJ 文件交换。
 
-`PyTorch` `CNN` `Spatial Attention` `CUDA / MPS`
+项目提供 Windows 运行包、源码与构建测试流程，覆盖从建模交互、几何计算到部署发布的工程实现。
 
-[源代码 ↗](https://github.com/13536309143/GlyphWeave) · [中文说明与评估](https://github.com/13536309143/GlyphWeave/blob/main/README.zh-CN.md) · [模型与实验记录](https://github.com/13536309143/GlyphWeave/releases/tag/v1.0.0)
+`C++17` `Qt Widgets` `OpenGL 3.3` `Open CASCADE` `CMake / CTest`
+
+[源代码 ↗](https://github.com/13536309143/AxisForge-CAD) · [下载正式版](https://github.com/13536309143/AxisForge-CAD/releases/tag/v1.0.0) · [建模参数](https://github.com/13536309143/AxisForge-CAD/blob/main/docs/MODELING_PARAMETERS.md) · [装配配合](https://github.com/13536309143/AxisForge-CAD/blob/main/docs/MATES_AND_GRID.md) · [测试报告](https://github.com/13536309143/AxisForge-CAD/blob/main/docs/TESTING.md)
 
 ---
 
